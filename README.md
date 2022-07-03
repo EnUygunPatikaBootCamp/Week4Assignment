@@ -9,7 +9,7 @@
 
 Örnek: 
 Konsol Uygulaması için Input: 7
-Array = {1,6,743,24,132,54,9}
+//Random array değerleri: Array = {1,6,743,24,132,54,9}
 
 Çıktı: 
 En Büyük Sayı: 743
