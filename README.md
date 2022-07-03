@@ -17,6 +17,7 @@ En Küçük Sayı: 1
 
 ## SYMFONY WEB UYGULAMASI OLUŞTURMA (60 puan)
 Ders esnasında composer ile oluşturmuş olduğumuz ve twig template içeren Symfony uygulamasını Repo’ya yükleyiniz. Twig template aşağıdaki özellikleri barındırmalıdır:
-- En az 1 parametreyi controllerdan almalı
+- En az 2 parametreyi controllerdan almalı (parametrelerden bir tanesi mutlaka array olmalı)
 - Ena z 1 asset içermeli (css / js) ve template içinde bu asset kullanılmalı
+- Template içinde controllerden alınan çıktı mutlaka döngüde bastırılmalı
 
